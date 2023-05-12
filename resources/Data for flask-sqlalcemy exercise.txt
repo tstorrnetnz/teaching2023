@@ -1,0 +1,22 @@
+People
+
+1, Sallie, Weiss, F, 24
+2, Henry, Kemp, M, 36
+3, Harris, Kemp, M, 21
+4, Ridwan, Mcqrath, M, 31
+5, Honey, Norton, F, 47
+
+
+Objects
+
+1, Keyboard, 5
+2, Mouse, 4
+3, Microphone, 3
+4, Monitor, 2
+5, Speaker, 1
+6, Desk Camera,5
+7, Cellphone, 4
+8, Laptop,3
+9, Docking Station, 2
+10, Headphones, 1
+
